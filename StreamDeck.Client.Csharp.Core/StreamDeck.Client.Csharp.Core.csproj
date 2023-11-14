@@ -17,11 +17,11 @@
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageProjectUrl>https://github.com/Arkkis/streamdeck-client-csharp-core</PackageProjectUrl>
 	<RepositoryUrl>https://github.com/Arkkis/streamdeck-client-csharp-core</RepositoryUrl>
-	<PackageReadmeFile>../README.md</PackageReadmeFile>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
-	<None Include="../README.md" Pack="true" />
+	<None Include="..\README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
 </Project>
