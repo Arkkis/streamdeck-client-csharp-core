@@ -14,9 +14,14 @@
 	<Description>This is conversion of streamdeck-client-csharp C# wrapper library used to write Elgato Stream Deck plugins.</Description>
 	<Copyright>Copyright © Joni Nieminen</Copyright>
 	<PackageTags>Streaming Stream Deck Elgato .NET8 AOT</PackageTags>
-	<PackageLicenseUrl>https://github.com/Arkkis/streamdeck-client-csharp-core/blob/master/LICENSE.txt</PackageLicenseUrl>
+	<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	<PackageProjectUrl>https://github.com/Arkkis/streamdeck-client-csharp-core</PackageProjectUrl>
 	<RepositoryUrl>https://github.com/Arkkis/streamdeck-client-csharp-core</RepositoryUrl>
+	<PackageReadmeFile>../README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+	<None Include="../README.md" Pack="true" />
+  </ItemGroup>
 
 </Project>
