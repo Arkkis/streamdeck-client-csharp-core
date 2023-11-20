@@ -1,4 +1,4 @@
-[![NuGet](https://img.shields.io/nuget/v/streamdeck-client-csharp-core.svg?style=flat)](https://www.nuget.org/packages/streamdeck-client-csharp-core)
+[![NuGet](https://img.shields.io/nuget/v/StreamDeck.Client.Csharp.Core.svg?style=flat)](https://www.nuget.org/packages/StreamDeck.Client.Csharp.Core/)
 
 # streamdeck-client-csharp-core
 
